@@ -1,0 +1,4 @@
+customer_id;age;timestamp;gender;client_since;region;last_offer;Offer_1;Offer_2;Offer_3;Offer_4;Offer_5;Offer_6;Offer_7;Offer_8;Offer_9;Offer_10
+2014823;23;1900-01-01;M;;Europa;Offer_1;True;True;True;True;True;True;True;True;True;True
+2024824;73;1900-01-02;f;;Asia;Offer_2;True;True;True;True;True;True;True;True;True;True
+2034825;18;1900-01-03;Male;;Americas;Offer_8;True;True;True;True;True;True;True;True;True;True
